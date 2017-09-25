@@ -2,5 +2,5 @@
 
 Projeto utilizando dois sensores de umidade de solo + sensor de temperatura e umidade, 
 mostrando o resultado em um i2c lcd.
+[![Arduino Experience](http://img.youtube.com/v1/EynvpCxFikQ/0.jpg)](https://www.youtube.com/watch?v=EynvpCxFikQ)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EynvpCxFikQ" frameborder="0" allowfullscreen></iframe>
