@@ -1,3 +1,8 @@
+/**
+ * Sensor de temperatura e umidade de solo com arduino
+ *
+ * @author Thiago Paes <mrprompt@gmail.com>
+ **/
 #include <Wire.h>
 #include <LCD.h>
 #include <LiquidCrystal_I2C.h>
